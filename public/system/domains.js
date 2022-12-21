@@ -1,0 +1,1 @@
+const domain_name ="https://boychawin.com";
